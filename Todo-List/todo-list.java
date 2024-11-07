@@ -122,6 +122,9 @@ public class TodoList {
         Action(String actionType, String task) {
             this.actionType = actionType;
             this.task = task;
+ 
         }
+ 
     }
 }
+
